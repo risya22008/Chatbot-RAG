@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+google-generativeai
+chromadb
+tiktoken
+langchain_community
+langchain_chroma
